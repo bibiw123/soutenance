@@ -1,0 +1,39 @@
+body{
+
+    background-image:url("../img/fondtopbar.png");
+    color: rgbrgb(102 16 4);
+    font-weight: 1000;
+    font-size: large;
+
+}
+
+.logotwit{
+
+    margin-left: 4rem;
+    
+}
+
+.logoface{
+
+    margin-left: 4rem;
+    
+}
+.logoinsta{
+
+    margin-left: 4rem;
+    
+}
+.logoMarvel{
+
+    margin-left: 4rem;
+}
+
+.brand-logo{
+    margin-right: 10rem;
+    margin-bottom: 0.3rem;
+}
+h4{
+
+    font-weight: 500;
+
+}

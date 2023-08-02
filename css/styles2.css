@@ -1,0 +1,19 @@
+body{
+
+    background-color: rgb(245, 235, 220);
+}
+.switch label input[type=checkbox]:checked + .lever:after {
+
+    background-color: #b71c1c;
+}
+.switch label input[type=checkbox]:checked + .lever {
+    background-color: #b71c1c; 
+}
+.light-blue {
+    background-color: #b71c1c;
+}
+
+.light-blue-text {
+    color: #b71c1c;
+} 
+
